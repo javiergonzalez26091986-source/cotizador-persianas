@@ -40,7 +40,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-# NUEVA URL DE IMPLEMENTACIÓN
+# URL
 URL_APPSCRIPT = "https://script.google.com/macros/s/AKfycbxVFX5JzM8LJsi5EdA6eWq33PD-ZlVY0xhbTzDG15c_fPkoswEdw4qrtiaVwJQsgWU-Uw/exec"
 
 # --- FUNCIONES NUBE ---
